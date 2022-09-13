@@ -1,1 +1,16 @@
-# FreeCodeCampProject5
+<h1>Personal Portfolio Webpage</h1>
+
+<h2>Description</h2>
+This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, I built a personal portfolio page.
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>HTML</b> 
+- <b>CSS</b>
+
+<h2>Environments Used </h2>
+
+- <b>Visual Studio Code</b>
+
