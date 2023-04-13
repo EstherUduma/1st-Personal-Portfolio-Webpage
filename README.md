@@ -5,7 +5,7 @@ This is one of the required projects to earn my Responsive Web Design certificat
 <br />
 
 <h2>Hosted Page Link</h2>
-https://estheruduma.github.io/AuroraTours-Landing-Page/
+https://1st-personal-portfolio-webpage.esther-annann.repl.co
 
 <h2>Languages and Utilities Used</h2>
 
