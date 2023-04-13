@@ -4,6 +4,8 @@
 This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, I built a personal portfolio page.
 <br />
 
+<h2>Hosted Page Link</h2>
+https://estheruduma.github.io/AuroraTours-Landing-Page/
 
 <h2>Languages and Utilities Used</h2>
 
